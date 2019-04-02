@@ -1,0 +1,2 @@
+cargo:rustc-cfg=libc_priv_mod_use
+cargo:rustc-cfg=libc_union
